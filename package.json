@@ -1,0 +1,23 @@
+{
+  "name": "conversor-sb3-to-html",
+  "version": "1.0.0",
+  "description": "Conversor de .sb3 para .html em lote usando node e a ferramenta @sheeptester/htmlifier (https://www.npmjs.com/package/@sheeptester/htmlifier)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hovelacque/Conversor-SB3-to-HTML.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hovelacque/Conversor-SB3-to-HTML/issues"
+  },
+  "homepage": "https://github.com/Hovelacque/Conversor-SB3-to-HTML#readme",
+  "dependencies": {
+    "@sheeptester/htmlifier": "^1.0.3"
+  }
+}
