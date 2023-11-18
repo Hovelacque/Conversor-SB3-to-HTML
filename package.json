@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Hovelacque/Conversor-SB3-to-HTML#readme",
   "dependencies": {
-    "@sheeptester/htmlifier": "^1.0.3"
+    "@sheeptester/htmlifier": "^1.0.3",
+    "node-html-to-image": "^4.0.0"
   }
 }
